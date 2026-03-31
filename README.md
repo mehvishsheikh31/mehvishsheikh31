@@ -20,7 +20,7 @@ I'm a **motivated and disciplined learner** pursuing B.Tech in CSE with a specia
 
 I have a strong foundation in **Python, data analysis, and machine learning**, with hands-on experience building real-world projects across NLP, AI, and full-stack development. I focus on **practical, deployment-ready solutions** — not just theory.
 
-Currently deepening my skills in **GenAI, Agentic AI, LangChain, FastAPI, Docker, and AWS** while actively looking for **internship and collaboration opportunities** in the Data Science / AI space.
+Currently deepening my skills in **GenAI, Agentic AI, LangChain, FastAPI** while actively looking for **internship and collaboration opportunities** in the Data Science / AI space.
 
 > 🌍 Based in Indore, India &nbsp;|&nbsp; 📧 mehvishsheikh.3101@gmail.com
 
