@@ -1,121 +1,198 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mehvish%20Sheikh&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20ML%20%7C%20AI%20%7C%20GenAI%20Explorer&descAlignY=55&descAlign=50" />
-</p>
+<!--
+███╗   ███╗███████╗██╗  ██╗██╗   ██╗██╗███████╗██╗  ██╗
+████╗ ████║██╔════╝██║  ██║██║   ██║██║██╔════╝██║  ██║
+██╔████╔██║█████╗  ███████║██║   ██║██║███████╗███████║
+██║╚██╔╝██║██╔══╝  ██╔══██║╚██╗ ██╔╝██║╚════██║██╔══██║
+██║ ╚═╝ ██║███████╗██║  ██║ ╚████╔╝ ██║███████║██║  ██║
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+CSE+%7C+Data+Science;ML+%7C+NLP+%7C+GenAI+Explorer+%F0%9F%A4%96;Building+Real-World+AI+Projects+%F0%9F%9B%A0%EF%B8%8F;Turning+Data+into+Decisions+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehvishsheikh31&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/mehvishsheikh31?label=Followers&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships-orange?style=for-the-badge" />
-</p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ███╗   ███╗███████╗██╗  ██╗██╗   ██╗██╗███████╗██╗  ██╗      ║
+║   ████╗ ████║██╔════╝██║  ██║██║   ██║██║██╔════╝██║  ██║      ║
+║   ██╔████╔██║█████╗  ███████║██║   ██║██║███████╗███████║      ║
+║   ██║╚██╔╝██║██╔══╝  ██╔══██║╚██╗ ██╔╝██║╚════██║██╔══██║      ║
+║   ██║ ╚═╝ ██║███████╗██║  ██║ ╚████╔╝ ██║███████║██║  ██║      ║
+║   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝      ║
+║                                                                  ║
+║              S H E I K H  —  v3.0  [2025 build]                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
----
+</div>
 
-## 💫 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=~%24+whoami+%E2%86%92+Data+Scientist+in+Progress;~%24+python+train.py+--domain+%22AI%2FML%2FGenAI%22;~%24+git+push+origin+future;~%24+sudo+apt+get+internship+--now;~%24+echo+%22Open+to+opportunities%22" />
+</div>
 
-I'm a **motivated and disciplined learner** pursuing B.Tech in CSE with a specialization in **Data Science** from Indore Institute of Science & Technology (Graduating 2027).
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehvishsheikh31&label=visitors&color=00ff41&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/mehvishsheikh31?label=followers&style=flat-square&color=00ff41&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/status-open_to_internships-00ff41?style=flat-square&labelColor=0d1117" />
+</div>
 
-I have a strong foundation in **Python, data analysis, and machine learning**, with hands-on experience building real-world projects across NLP, AI, and full-stack development. I focus on **practical, deployment-ready solutions** — not just theory.
-
-Currently deepening my skills in **GenAI, Agentic AI, LangChain, FastAPI** while actively looking for **internship and collaboration opportunities** in the Data Science / AI space.
-
-> 🌍 Based in Indore, India &nbsp;|&nbsp; 📧 mehvishsheikh.3101@gmail.com
-
----
-
-## 🚀 Featured Projects
-
-| 🔗 Project | 📝 Description | 🛠️ Tech Stack |
-|-----------|---------------|--------------|
-| ❤️ **Heart Disease Prediction** | ML model with 91.67% accuracy using Logistic Regression | Python, Scikit-learn, Pandas |
-| 🤖 **Smart Companion** | AI-powered career counseling platform via Groq API | Flask, Groq API, HTML/CSS |
-| 🏠 **Hostel Mate** | Grievance management system for hostel students | Django, PostgreSQL, Bootstrap |
-| 🎌 **ANI-MIND** | Anime recommender system deployed on Streamlit Cloud | Streamlit, Python, NLP |
-
----
-
-## 💻 Tech Stack
-
-### 👩‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" />
-</p>
-
-### 🧠 ML / Data Science
-<p>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
-</p>
-
-### 🌐 Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,django,fastapi,streamlit,docker&theme=dark" />
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,gcp,aws&theme=dark" />
-</p>
-
-### 📊 BI & Visualization
-<p>
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-</p>
-
-### 🔧 Dev Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-</p>
+<br/>
 
 ---
 
-## 📊 GitHub Stats
+```bash
+mehvish@portfolio:~$ cat about.txt
+```
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mehvishsheikh31&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehvishsheikh31&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehvishsheikh31&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00d9ff&line=7c3aed&point=ffffff" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/mehvishsheikh31">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mehvishsheikh.3101@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mehvishsheikh31">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  NAME      →  Mehvish Sheikh                                    │
+│  ROLE      →  B.Tech CSE (Data Science) · 3rd Year             │
+│  COLLEGE   →  Indore Institute of Science & Technology         │
+│  GRAD      →  2027                                              │
+│  LOCATION  →  Indore, India 🇮🇳                                 │
+│  EMAIL     →  mehvishsheikh.3101@gmail.com                      │
+├─────────────────────────────────────────────────────────────────┤
+│  FOCUS     →  ML · NLP · GenAI · Agentic AI                    │
+│  BUILDING  →  FastAPI · Docker · LangChain · AWS EC2           │
+│  GOAL      →  Production-ready AI solutions that matter        │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+```bash
+mehvish@portfolio:~$ ls -la projects/
+```
+
+```
+drwxr-xr-x  projects/
+│
+├── ❤️  heart-disease-prediction/
+│       ├── model        →  Logistic Regression
+│       ├── accuracy     →  91.67%
+│       └── stack        →  Python · Scikit-learn · Pandas
+│
+├── 🤖  smart-companion/
+│       ├── type         →  AI Career Counseling Platform
+│       ├── feature      →  Groq API · Real-time responses
+│       └── stack        →  Flask · Groq API · HTML/CSS
+│
+├── 🏠  hostel-mate/
+│       ├── type         →  Grievance Management System
+│       ├── users        →  Students & Admin Portal
+│       └── stack        →  Django · PostgreSQL · Bootstrap
+│
+└── 🎌  ani-mind/
+        ├── type         →  Anime Recommender System
+        ├── deployed     →  Streamlit Cloud ✅
+        └── stack        →  Streamlit · Python · NLP
+```
+
+---
+
+```bash
+mehvish@portfolio:~$ ./skills --list --verbose
+```
+
+```
+[LANGUAGES]        ████████████████████  Python · C · C++ · HTML · CSS · JS
+[ML/DS]            ████████████████░░░░  NumPy · Pandas · Scikit-learn · Matplotlib · SciPy
+[FRAMEWORKS]       ███████████████░░░░░  Flask · Django · FastAPI · Streamlit · Docker
+[DATABASES]        ██████████████░░░░░░  PostgreSQL · MySQL · SQLite
+[CLOUD]            ████████░░░░░░░░░░░░  GCP · AWS EC2 · Render · Streamlit Cloud
+[BI TOOLS]         ███████████░░░░░░░░░  Power BI · Tableau
+[DEV TOOLS]        █████████████████░░░  Git · GitHub · VS Code · Linux
+[CURRENTLY LEARNING]  ░░░░░░░░░░░░░░░░  LangChain · LangGraph · CrewAI · HuggingFace
+```
+
+---
+
+```bash
+mehvish@portfolio:~$ cat stack_icons.md
+```
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" />
+
+**Frameworks & Cloud**
+
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,streamlit,docker,aws,gcp&theme=dark" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,linux&theme=dark" />
+
+</div>
+
+---
+
+```bash
+mehvish@portfolio:~$ python stats.py --user mehvishsheikh31
+```
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mehvishsheikh31&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehvishsheikh31&theme=matrix&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=ffffff" />
+
+</div>
+
+---
+
+```bash
+mehvish@portfolio:~$ git log --graph --oneline contributions
+```
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehvishsheikh31&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00ff41&line=00ff41&point=ffffff" />
+</div>
+
+---
+
+```bash
+mehvish@portfolio:~$ curl connect.mehvish.dev/socials
+```
+
+```json
+{
+  "linkedin"  : "linkedin.com/in/mehvishsheikh31",
+  "github"    : "github.com/mehvishsheikh31",
+  "email"     : "mehvishsheikh.3101@gmail.com",
+  "status"    : "open_to_internships ✅",
+  "response"  : "Always reply within 24 hours 🚀"
+}
+```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehvishsheikh31)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehvishsheikh.3101@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehvishsheikh31)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   "First, solve the problem.                         ║
+║    Then, write the code."  — John Johnson            ║
+║                                                      ║
+║   mehvish@portfolio:~$  █                            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=100&section=footer" />
 </p>
