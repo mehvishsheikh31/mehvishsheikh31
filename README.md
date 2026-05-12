@@ -19,7 +19,7 @@
 ║   ██║ ╚═╝ ██║███████╗██║  ██║ ╚████╔╝ ██║███████║██║  ██║      ║
 ║   ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚═╝  ╚═╝      ║
 ║                                                                  ║
-║              S H E I K H  —  v3.0  [2025 build]                 ║
+║              S H E I K H  —  v4.0  [2026 build]                 ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=~%24+whoami+%E2%86%92+Data+Scientist+in+Progress;~%24+python+train.py+--domain+%22AI%2FML%2FGenAI%22;~%24+git+push+origin+future;~%24+sudo+apt+get+internship+--now;~%24+echo+%22Open+to+opportunities%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=~%24+whoami+%E2%86%92+Data+Scientist+in+Progress;~%24+python+train.py+--domain+%22AI%2FML%2FGenAI%22;~%24+docker+build+-t+production-ml+.;~%24+sudo+apt+get+internship+--now;~%24+echo+%22Open+to+opportunities%22" />
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@ mehvish@portfolio:~$ cat about.txt
 │  EMAIL     →  mehvishsheikh.3101@gmail.com                      │
 ├─────────────────────────────────────────────────────────────────┤
 │  FOCUS     →  ML · NLP · GenAI · Agentic AI                    │
-│  BUILDING  →  FastAPI · Docker · LangChain · AWS EC2           │
+│  BUILDING  →  FastAPI · Docker · LangChain · Groq API          │
 │  GOAL      →  Production-ready AI solutions that matter        │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -68,25 +68,51 @@ mehvish@portfolio:~$ ls -la projects/
 ```
 drwxr-xr-x  projects/
 │
-├── ❤️  heart-disease-prediction/
+├── 🧠  stroke-prediction/
+│       ├── type         →  End-to-End Production ML System
+│       ├── problem      →  Class imbalance (5% stroke cases) — maximize recall
+│       ├── model        →  XGBoost + Optuna (80% recall) + SMOTE
+│       ├── api          →  FastAPI + Pydantic validation
+│       ├── dashboard    →  Streamlit (4 tabs: Predict, EDA, Compare, SHAP)
+│       ├── explain      →  SHAP beeswarm + importance plots
+│       ├── deployed     →  strokepredictionsmodel.streamlit.app ✅
+│       └── stack        →  Python · XGBoost · FastAPI · Streamlit · Docker · SHAP
+│
+├── ❤️   heart-disease-prediction/
+│       ├── type         →  Binary Classification · Clinical ML
 │       ├── model        →  Logistic Regression
 │       ├── accuracy     →  91.67%
-│       └── stack        →  Python · Scikit-learn · Pandas
+│       ├── focus        →  Interpretable baseline model for cardiac risk
+│       └── stack        →  Python · Scikit-learn · Pandas · Matplotlib
 │
-├── 🤖  smart-companion/
-│       ├── type         →  AI Career Counseling Platform
-│       ├── feature      →  Groq API · Real-time responses
-│       └── stack        →  Flask · Groq API · HTML/CSS
+├── 🤖  smart-companion-fastapi/
+│       ├── type         →  AI Career Counseling Platform (v2 — FastAPI rebuild)
+│       ├── feature      →  Chatbot + Course Recommender + User Auth
+│       ├── upgrade      →  Migrated Flask → FastAPI for async performance
+│       ├── db           →  SQLite (persistent sessions)
+│       └── stack        →  Python · FastAPI · Groq API · HTML · CSS · SQLite
 │
 ├── 🏠  hostel-mate/
 │       ├── type         →  Grievance Management System
-│       ├── users        →  Students & Admin Portal
+│       ├── users        →  Students & Admin dual portal
+│       ├── features     →  Complaint tracking · Admin dashboard · Auth
 │       └── stack        →  Django · PostgreSQL · Bootstrap
 │
-└── 🎌  ani-mind/
-        ├── type         →  Anime Recommender System
-        ├── deployed     →  Streamlit Cloud ✅
-        └── stack        →  Streamlit · Python · NLP
+├── 🎌  ani-mind/
+│       ├── type         →  Anime Recommender System
+│       ├── deployed     →  Streamlit Cloud ✅
+│       ├── features     →  NLP-based content filtering · interactive UI
+│       └── stack        →  Streamlit · Python · NLP · Pandas
+│
+└── 🍴  indore-food-intelligence/
+        ├── type         →  Geospatial AI Agent
+        ├── tagline      →  "Craving dahi wada at midnight? I know where to go."
+        ├── feature      →  Natural language → ranked vendor matches
+        ├── scoring      →  Proximity · mood · budget · time · rating
+        ├── llm          →  Groq LLaMA 3.1 — AI narrative recommendations
+        ├── map          →  Folium live map + GPS auto-detect
+        ├── data         →  20 vendors across 8 iconic Indore food zones
+        └── stack        →  Python · Streamlit · Groq API · Folium · LLaMA 3.1
 ```
 
 ---
@@ -96,14 +122,16 @@ mehvish@portfolio:~$ ./skills --list --verbose
 ```
 
 ```
-[LANGUAGES]        ████████████████████  Python · C · C++ · HTML · CSS · JS
-[ML/DS]            ████████████████░░░░  NumPy · Pandas · Scikit-learn · Matplotlib · SciPy
-[FRAMEWORKS]       ███████████████░░░░░  Flask · Django · FastAPI · Streamlit · Docker
-[DATABASES]        ██████████████░░░░░░  PostgreSQL · MySQL · SQLite
-[CLOUD]            ████████░░░░░░░░░░░░  GCP · AWS EC2 · Render · Streamlit Cloud
-[BI TOOLS]         ███████████░░░░░░░░░  Power BI · Tableau
-[DEV TOOLS]        █████████████████░░░  Git · GitHub · VS Code · Linux
-[CURRENTLY LEARNING]  ░░░░░░░░░░░░░░░░  LangChain · LangGraph · CrewAI · HuggingFace
+[LANGUAGES]           ████████████████████  Python · C · C++ · HTML · CSS · JS
+[ML / DS]             ████████████████░░░░  NumPy · Pandas · Scikit-learn · XGBoost · SHAP
+[IMBALANCE & TUNING]  █████████████░░░░░░░  SMOTE · Optuna · Threshold Tuning · Recall Optimization
+[FRAMEWORKS]          ███████████████░░░░░  FastAPI · Flask · Django · Streamlit · Docker
+[LLM / GENAI]         ████████████░░░░░░░░  Groq API · LLaMA 3.1 · Prompt Engineering
+[DATABASES]           ██████████████░░░░░░  PostgreSQL · MySQL · SQLite
+[CLOUD / DEPLOY]      ████████░░░░░░░░░░░░  Render · Streamlit Cloud · Docker · AWS EC2
+[BI TOOLS]            ███████████░░░░░░░░░  Power BI · Tableau
+[DEV TOOLS]           █████████████████░░░  Git · GitHub · VS Code · Linux · Optuna
+[CURRENTLY LEARNING]  ░░░░░░░░░░░░░░░░░░░░  LangChain · LangGraph · CrewAI · HuggingFace
 ```
 
 ---
@@ -120,13 +148,22 @@ mehvish@portfolio:~$ cat stack_icons.md
 
 **Frameworks & Cloud**
 
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi,streamlit,docker,aws,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,django,fastapi,streamlit,docker,aws&theme=dark" />
 
 **Databases & Tools**
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,linux&theme=dark" />
 
 </div>
+
+---
+
+```bash
+mehvish@portfolio:~$ cat achievements.log
+```
+
+
+```
 
 ---
 
